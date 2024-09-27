@@ -1,10 +1,14 @@
 // Return the reversed string
-static String reverseString(String str) {
-  // Write your code here
-  StringBuilder result = new StringBuilder(str);
-  result.reverse();
-  return result.toString()
+public class Reverse{
+
+  static String reverseString(String str) {
+    // Write your code here
+    StringBuilder result = new StringBuilder(str);
+    result.reverse();
+    return result.toString();
+  }
 }
+
 
 
 // // Write a method named dispMsg() here

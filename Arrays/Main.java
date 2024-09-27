@@ -1,5 +1,5 @@
 import java.util.*;
-package Arrays;
+//package Arrays;
 // Other imports go here, Do NOT change the class name
 class Main
 {

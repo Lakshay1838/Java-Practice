@@ -1,4 +1,4 @@
-public static class 04Findoccurrencesofpalindromewordsinastring {
+public class Findoccurrencesofpalindromewordsinastring {
   static int countPalindrome (String str){
     // Write your code here
     //input
